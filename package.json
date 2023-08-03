@@ -1,0 +1,17 @@
+{
+  "name": "mostly-ai",
+  "version": "1.0",
+  "engines": {
+    "node": "16"
+  },
+  "scripts": {
+    "at": "node runner.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "chance": "^1.1.11",
+    "sprintf-js": "^1.1.2",
+    "testcafe": "^3.1.0",
+    "testcafe-reporter-allure-expanded": "^1.1.0"
+  }
+}
